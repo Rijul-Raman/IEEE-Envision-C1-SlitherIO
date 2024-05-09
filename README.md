@@ -12,7 +12,7 @@
 
 
 ## ENVISION PROGRAM: ##
-We are incredibly grateful for the opportunity to learn and work on this project under the prestigious name of the IEEE Envision program. We want to extend our heartfelt thanks to IEEE for guiding and helping us through this project.
+### We are incredibly grateful for the opportunity to learn and work on this project under the prestigious name of the IEEE Envision program. We want to extend our heartfelt thanks to IEEE for guiding and helping us through this project. ###
 
 
 ## LIST OF MENTORS AND MENTEES: ##
