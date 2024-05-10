@@ -19,7 +19,7 @@
 
 ### MENTORS : Aditya Bhagwat , Tarun Dj , Sanjay Bhat ###
 
-### MENTEES : Akhil Satishwaran, Athul Rajeev ,Harshwardhan Goud , Hasini Jaishetty, Mubashir Afzal , Megharaj S Naik, R Aditya , Rijul Raman And Shishir Hegde ###
+### MENTEES : Akhil Sakthieswaran, Athul Rajeev ,Harshwardhan Goud , Hasini Jaishetty, Mubashir Afzal , Megharaj S Naik, R Aditya , Rijul Raman And Shishir Hegde ###
 
 
 ## INSTALLING THE REQUIREMENTS: ###
